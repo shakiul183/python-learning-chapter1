@@ -8,5 +8,7 @@ print(l1) # print sort
 l1.insert(3,3333) # insert such that its index in the list is 3
 print(l1)
 l1.pop(4) # pop means : pop can delete a index value and return changed
+print(l1.pop(4)) # pop and pop value will return
+
 
 print(l1)
